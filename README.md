@@ -15,8 +15,8 @@ Affiliations
 9 Excellence Cluster of Systems Neurology (SYNERGY), Munich, Germany. \
 
 \* These authors contributed equally \
-\§ present address: University of Nantes, INSERM, UMR 1089, Nantes, France \
-\° present address: Institute of Stem Cells and Epigenetics, Helmholtz Center Munich, 85764 Neuherberg, Germany \
+§ present address: University of Nantes, INSERM, UMR 1089, Nantes, France \
+° present address: Institute of Stem Cells and Epigenetics, Helmholtz Center Munich, 85764 Neuherberg, Germany \
 \+ present address: Department of Basic Neurosciences, University of Geneva, Geneva, Switzerland. \
 \# These authors jointly supervised this work: B. Bonev, M. Götz \
 
