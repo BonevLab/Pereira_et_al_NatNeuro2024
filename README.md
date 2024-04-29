@@ -1,6 +1,6 @@
 **Direct neuronal reprogramming of mouse astrocytes is associated with multiscale epigenome remodeling and requires Yy1**
 
-Allwyn Pereira^1,2,§^, Jeisimhan Diwakar^1,3,\*^, Giacomo Masserdotti^1,2,\*^, Sude Beşkardeş^1,3^, Tatiana Simon^1,2^, Younju So^1,2^, Lucía Martín-Loarte^1,2^, Franziska Bergemann^1,2^, Lakshmy Vasan^4^, Tamas Schauer^5,°^, Anna Danese^1,2^, Riccardo Bocchi^1,2,+^, Maria Colomé-Tatché^6,7^, Carol Schuurmans^4^, Anna Philpott^8^, Tobias Straub^4^, Boyan Bonev^1,3,#^ & Magdalena Götz^1,2,9,#^
+Allwyn Pereira<sup>1,2,§</sup>, Jeisimhan Diwakar<sup>1,3,\*</sup>, Giacomo Masserdotti<sup>1,2,\*</sup>, Sude Beşkardeş<sup>1,3</sup>, Tatiana Simon<sup>1,2</sup>, Younju So<sup>1,2, Lucía Martín-Loarte<sup>1,2</sup>, Franziska Bergemann<sup>1,2</sup>, Lakshmy Vasan<sup>4</sup>, Tamas Schauer<sup>5,°</sup>, Anna Danese<sup>1,2</sup>, Riccardo Bocchi<sup>1,2,+</sup>, Maria Colomé-Tatché<sup>6,7</sup>, Carol Schuurmans<sup>4</sup>, Anna Philpott<sup>8</sup>, Tobias Straub<sup>4</sup>, Boyan Bonev<sup>1,3,#</sup> & Magdalena Götz<sup>1,2,9,#</sup>
 
 Affiliations
 
@@ -14,11 +14,11 @@ Affiliations
 8 Wellcome – Medical Research Council Cambridge Stem Cell Institute, University of Cambridge, Cambridge Biomedical Campus, CB2 0AW, UK. \
 9 Excellence Cluster of Systems Neurology (SYNERGY), Munich, Germany. \
 
-\* These authors contributed equally \
-\§ present address: University of Nantes, INSERM, UMR 1089, Nantes, France \
-\° present address: Institute of Stem Cells and Epigenetics, Helmholtz Center Munich, 85764 Neuherberg, Germany \
-\+ present address: Department of Basic Neurosciences, University of Geneva, Geneva, Switzerland. \
-\# These authors jointly supervised this work: B. Bonev, M. Götz \
+* These authors contributed equally \
+§ present address: University of Nantes, INSERM, UMR 1089, Nantes, France \
+° present address: Institute of Stem Cells and Epigenetics, Helmholtz Center Munich, 85764 Neuherberg, Germany \
++ present address: Department of Basic Neurosciences, University of Geneva, Geneva, Switzerland. \
+# These authors jointly supervised this work: B. Bonev, M. Götz \
 
 Correspondence to: boyan.bonev@helmholtz-munich.de,
 magdalena.goetz@helmholtz-munich.de
